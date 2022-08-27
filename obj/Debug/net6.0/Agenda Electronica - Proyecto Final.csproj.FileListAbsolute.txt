@@ -1,0 +1,75 @@
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfo.cs
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.exe
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.deps.json
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.runtimeconfig.json
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\refint\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.genruntimeconfig.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\ref\Agenda Electronica - Proyecto Final.dll
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.AssemblyReference.cache
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfoInputs.cache
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfo.cs
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.CoreCompileInputs.cache
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\refint\Agenda Electronica - Proyecto Final.dll
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+E:\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.exe
+E:\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.deps.json
+E:\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.runtimeconfig.json
+E:\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+E:\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.genruntimeconfig.cache
+E:\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\ref\Agenda Electronica - Proyecto Final.dll
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.exe
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.deps.json
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.runtimeconfig.json
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfo.cs
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\refint\Agenda Electronica - Proyecto Final.dll
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.genruntimeconfig.cache
+C:\Users\E.deleon.DJCARGO\Downloads\Agenda Electronica - Proyecto Final\obj\Debug\net6.0\ref\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.exe
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.deps.json
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.runtimeconfig.json
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfo.cs
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\refint\Agenda Electronica - Proyecto Final.dll
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.genruntimeconfig.cache
+C:\Users\JDvic\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\ref\Agenda Electronica - Proyecto Final.dll
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.exe
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.deps.json
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.runtimeconfig.json
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\bin\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.AssemblyReference.cache
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfoInputs.cache
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.AssemblyInfo.cs
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.dll
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\refint\Agenda Electronica - Proyecto Final.dll
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.pdb
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\Agenda Electronica - Proyecto Final.genruntimeconfig.cache
+C:\Users\ANTHO-PC\Desktop\Agenda Electronica - Proyecto Final - Terminado\obj\Debug\net6.0\ref\Agenda Electronica - Proyecto Final.dll
